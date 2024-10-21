@@ -10,5 +10,5 @@
    echo "<br>","En 3er semestre de la carrera de Programación A Matutino"; 
    echo "<br>", "Vivo en la ciudad de Durango, Dgo.";
    echo "<br>", "Me gusta programar";
-
+   echo "<br>", "Hola";
    ?>
