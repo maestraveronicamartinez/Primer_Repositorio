@@ -9,5 +9,6 @@
    echo "<br>","Estudio en el CBTIS 89";
    echo "<br>","En 3er semestre de la carrera de Programación A Matutino"; 
    echo "<br>", "Vivo en la ciudad de Durango, Dgo.";
+   echo "<br>", "Me gusta programar";
 
    ?>
